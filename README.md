@@ -176,4 +176,4 @@ ssh -i ~/.ssh/id_ed25519 root@$(terraform output -raw ecs_public_ip)
 
 ## 📄 许可证
 
-Apache License
+MIT License
